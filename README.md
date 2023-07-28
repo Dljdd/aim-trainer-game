@@ -2,7 +2,7 @@
  An Aim trainer game
 
 Download and run aimtrainer.py
-\n
+<br>
 <img width="172" alt="Screenshot 2023-07-28 at 8 14 54 PM" src="https://github.com/Dljdd/aim-trainer-game/assets/68500873/f75ad0fa-1c18-4ccd-9382-f9314bc58bd2">
 
 
