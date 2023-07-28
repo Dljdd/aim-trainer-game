@@ -2,8 +2,9 @@
  An Aim trainer game
 
 Download and run aimtrainer.py
+\n
+<img width="172" alt="Screenshot 2023-07-28 at 8 14 54 PM" src="https://github.com/Dljdd/aim-trainer-game/assets/68500873/f75ad0fa-1c18-4ccd-9382-f9314bc58bd2">
 
-<img width="172" alt="Screenshot 2023-07-28 at 8 14 28 PM" src="https://github.com/Dljdd/aim-trainer-game/assets/68500873/9046fee0-2f68-427f-ac7d-3552759f73fa">
 
 #### Please note: pygame module needs to be installed for it to work
 
