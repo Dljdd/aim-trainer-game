@@ -2,7 +2,9 @@
  An Aim trainer game
 
 Download and run aimtrainer.py
+<img width="156" alt="Screenshot 2023-07-28 at 8 13 22 PM" src="https://github.com/Dljdd/aim-trainer-game/assets/68500873/e5d93416-f90c-46ab-b352-1ed005689398">
 
+#### Please note: pygame module needs to be installed for it to work
 
 ## In Action
 
