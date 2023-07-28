@@ -12,3 +12,6 @@ Download and run aimtrainer.py
 
 ### It shows your average speed once you lose
 <img width="712" alt="Screenshot 2023-07-28 at 8 09 26 PM" src="https://github.com/Dljdd/aim-trainer-game/assets/68500873/99863646-bb2a-4954-a670-d053a78296c4">
+
+
+Built using pygame
